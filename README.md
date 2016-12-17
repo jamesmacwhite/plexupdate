@@ -115,7 +115,7 @@ There are also a few additional options for the more enterprising user. Setting 
 - AUTOINSTALL
   Automatically installs the newly downloaded version. Currently works for Debian based systems as well as rpm based distros. Will fail miserably if you're not root.
 - AUTODELETE
-  Once successfully downloaded and installed, it will delete the package (want not, waste not? ;-))
+  Once successfully downloaded and installed, it will delete the package (waste not, want not? ;-))
 - PUBLIC
   The default behavior of plexupdate.sh is to download the PlexPass edition of Plex Media Server. Setting this option to `yes` will make it download the public version instead. If this is yes, then `EMAIL` and `PASS` is no longer needed.
 - FORCE
